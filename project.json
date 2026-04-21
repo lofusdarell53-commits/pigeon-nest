@@ -1,0 +1,28 @@
+{
+  "overview": "$Pigeon Nest is a Solana meme coin website featuring live price data, embedded DEX trading chart, Jupiter Swap integration, tokenomics dashboard with 5-second updates, generated lore narrative, meme gallery, and community links.",
+  "features": [
+    "Live price ticker with 5-second updates",
+    "Hero section with pigeon imagery",
+    "Generated lore and origin narrative",
+    "Tokenomics dashboard with live DEX data (FDV, holders, market cap, volume)",
+    "Embedded Jupiter Swap widget",
+    "Full-width DEX Screener live chart",
+    "Meme gallery with lightbox",
+    "Step-by-step how to buy guide",
+    "Community section with Telegram and X links",
+    "FAQs accordion",
+    "Dark edgy meme coin aesthetic",
+    "Fully mobile responsive"
+  ],
+  "category": "web3-meme-coin",
+  "tags": [
+    "solana",
+    "meme-coin",
+    "defi",
+    "crypto",
+    "pigeon",
+    "dex",
+    "jupiter-swap"
+  ],
+  "last_updated": "2026-04-21T23:41:03.102Z"
+}
